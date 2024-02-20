@@ -1,0 +1,1 @@
+Este projeto é um sistema de cadastro e login no qual foi utilizado a arquitetura MVC(Model, View, Controller), além disso faz uso tbm do SQLAlchemy, que é um framework de mapeamento objeto-relacional(ORM).
